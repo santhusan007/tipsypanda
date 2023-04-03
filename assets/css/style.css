@@ -212,6 +212,8 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo a img{
   width: 200px;
   max-height: 50px;
+  border: 2px white solid;
+  border-radius: 10px;
  
 }
 
@@ -682,7 +684,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #aaaaaa;
+  color: rgba(215, 12, 12, 0.6);
   font-family: "Poppins", sans-serif;
 }
 
@@ -691,7 +693,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(215, 12, 12, 0.6);
   margin: 4px 10px;
 }
 
@@ -701,7 +703,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   font-family: "Playfair Display", serif;
-  color: #cda45e;
+  color: rgba(215, 12, 12, 0.6)
 }
 
 /*--------------------------------------------------------------
