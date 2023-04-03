@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background: #0c0b09;
+  background: #a2a19f;
   color: #fff;
 }
 
@@ -209,13 +209,19 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 
+#header .logo a img{
+  width: 200px;
+  max-height: 50px;
+ 
+}
+
 #header .logo a {
   color: #fff;
 }
 
-#header .logo img {
+/* #header .logo img {
   max-height: 40px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Book a table button Menu
