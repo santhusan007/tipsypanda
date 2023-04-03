@@ -12,6 +12,7 @@ body {
   font-family: "Open Sans", sans-serif;
   background: #a2a19f;
   color: #fff;
+ 
 }
 
 a {
@@ -1582,7 +1583,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #cda45e;
+  background: #e30606;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1591,7 +1592,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #d3af71;
+  background: #c01414;
 }
 
 @-webkit-keyframes animate-loading {
