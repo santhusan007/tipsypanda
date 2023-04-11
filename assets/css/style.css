@@ -697,6 +697,15 @@ section {
   background: white;
   margin: 4px 10px;
 }
+#more {
+  display: none;
+}
+#more1 {
+  display: none;
+}
+#more2 {
+  display: none;
+}
 
 .section-title p {
   margin: 0;
@@ -884,7 +893,7 @@ section {
 
 
 .why-us .box {
-  padding: 50px 30px;
+  padding: 20px 10px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   transition: all ease-in-out 0.3s;
   background: #1a1814;
